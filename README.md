@@ -76,4 +76,5 @@ Future improvements may include implementing multi-GPU distributed training, lar
 Author
 
 Faria Soroni
+
 CSE 706 Project — Parallel Algorithm
