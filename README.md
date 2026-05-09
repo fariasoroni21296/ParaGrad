@@ -68,6 +68,11 @@ GPU Requirement
 
 CUDA experiments require an NVIDIA CUDA-supported GPU and CUDA-compatible PyTorch installation. The project experiments were performed using an NVIDIA GeForce GTX 1650 GPU for CUDA acceleration and GPU-based parallel training.
 
+Author
+
+Faria Soroni
+CSE 706 Project — Parallel Algorithm
+
 Future Improvements
 
 Future improvements may include implementing multi-GPU distributed training, larger benchmark datasets, deep convolutional neural network architectures, DistributedDataParallel (DDP), cloud GPU deployment, and advanced optimization algorithms. Additional scalability analysis using high-performance computing clusters can further improve distributed machine learning performance evaluation.
