@@ -1,0 +1,28 @@
+Category,Metric,Value
+System,Operating System,Windows 10
+System,Processor,"AMD64 Family 23 Model 96 Stepping 1, AuthenticAMD"
+System,RAM (GB),15.37
+System,GPU,NVIDIA GeForce GTX 1650
+System,Python Version,3.10.20
+System,PyTorch Version,2.5.1+cu121
+System,CUDA Available,True
+CPU Results,CPU Sequential Time,37.77479839324951
+CPU Results,Best CPU Parallel Time,25.20887422561645
+CPU Results,Maximum CPU Speedup,1.498472246525946
+CPU Results,Maximum CPU Efficiency,1.0
+CUDA Results,CUDA Sequential Time,26.44084906578064
+CUDA Results,Best CUDA Parallel Time,14.014052152633669
+CUDA Results,Maximum CUDA Speedup,2.0050448632377496
+CUDA Results,Maximum CUDA Efficiency,1.0025224316188748
+Final Comparison,CPU Sequential,37.77479839324951
+Final Comparison,CPU Parallel,25.20887422561645
+Final Comparison,CUDA Sequential,26.44084906578064
+Final Comparison,CUDA Parallel,14.014052152633669
+Amdahl Analysis,Processes 1,1.0
+Amdahl Analysis,Processes 2,1.2569999054149923
+Amdahl Analysis,Processes 3,1.453287426132645
+Amdahl Analysis,Processes 4,1.498472246525946
+Amdahl Analysis,Processes 5,1.3784955512956836
+Amdahl Analysis,Processes 6,0.9586640296097656
+Amdahl Analysis,Processes 7,1.2929704719042674
+Amdahl Analysis,Processes 8,1.492659955118168

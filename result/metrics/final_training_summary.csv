@@ -1,0 +1,5 @@
+Training Method,Execution Time
+CPU Sequential,37.77479839324951
+CPU Parallel,25.20887422561645
+CUDA Sequential,26.44084906578064
+CUDA Parallel,14.014052152633669
